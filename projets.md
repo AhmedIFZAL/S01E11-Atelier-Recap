@@ -10,6 +10,6 @@ _Développeur web junior, en formation "Développement Web et Accessibilité"_
 |:--:|:---:|:--:|:--:|
 |Microsoft|2022|HTML, SASS, Javascript|Microsoft|
 |Google|2021|Node.js|Google|
-|O'Clock|2017|React|O'Clock|
+|O'Clock|2017|React|O'Clock|  
 
-© 2023 - **John Doe** - Me contacter
+© 2023 - **John Doe** - [Me contacter](contact.md)

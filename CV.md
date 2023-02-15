@@ -37,4 +37,4 @@ john.doe@gmail.com
 
 Musique (triangle cadien) - Combats de robot - Echecs (le jeu) - Clash of Clans  
 
-© 2023 - **John Doe** - Me contacter
+© 2023 - **John Doe** - [Me contacter](contact.md)
