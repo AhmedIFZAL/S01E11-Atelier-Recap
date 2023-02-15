@@ -3,7 +3,7 @@
 # John Doe
 _Développeur web junior, en formation "Développement Web et Accessibilité"_
 
-[Accueil](README.md) - [Projets](projets.md) - CV - Contact
+[Accueil](README.md) - [Projets](projets.md) - CV - [Contact](contact.md)
 
 ## CV
 
